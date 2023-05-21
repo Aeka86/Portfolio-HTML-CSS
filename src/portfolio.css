@@ -253,7 +253,7 @@ footer {
   }
   .nav-list li {
     border-right: 1px solid #f2b705;
-    margin-right: 5px;
-    padding-right: 5px;
+    margin-right: 2px;
+    padding-right: 4px;
   }
 }
