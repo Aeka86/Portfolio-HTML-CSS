@@ -251,4 +251,9 @@ footer {
   .example {
     font-size: 40px;
   }
+  .nav-list li {
+    border-right: 1px solid #f2b705;
+    margin-right: 5px;
+    padding-right: 7px;
+  }
 }
