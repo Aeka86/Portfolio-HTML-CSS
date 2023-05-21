@@ -247,4 +247,8 @@ footer {
     font-size: 14px;
     margin-bottom: 20px;
   }
+
+  .example {
+    font-size: 60px;
+  }
 }
