@@ -101,7 +101,7 @@ header {
 }
 .about {
   line-height: 1.8;
-  font-size: 20px;
+  font-size: 18px;
 }
 
 /* Projects
@@ -249,10 +249,15 @@ footer {
   }
 
   .about {
-    font-size: 14px;
+    font-size: 12.5px;
     margin-bottom: 20px;
   }
-
+  .content-wrap {
+    max-width: 800px;
+    width: 85%;
+    margin: 0 auto;
+    padding: 60px 0;
+  }
   .example {
     font-size: 40px;
   }
