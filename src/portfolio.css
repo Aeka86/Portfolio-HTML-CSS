@@ -94,7 +94,12 @@ ul {
 /* Profile
   -----------------------*/
 header {
-  background: #D3EBE8;
+  background-image: url('https://i.postimg.cc/Sx7Qd0V6/whale1.png');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  color: #FFF;
+  font-weight: 800;
 }
 .example {
   line-height: 1.2;
